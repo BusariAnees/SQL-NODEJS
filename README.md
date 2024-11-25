@@ -12,7 +12,9 @@ Key Features:
 	•	Database: SQL is used for storing data with structured tables and relationships between posts, comments, and users.
 
  ##screenshot
- ![PostApp](/image.jpg)
+ ![BlogApp](/image.jpg),
+ ![BlogApp](/image2.jpg),
+  ![BlogApp](/image3.jpg)
 
 Technologies Used:
 
