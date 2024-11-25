@@ -11,6 +11,9 @@ Key Features:
 	•	RESTful API: The backend is built with a RESTful API using Node.js and Express to handle HTTP requests and communicate with the SQL database.
 	•	Database: SQL is used for storing data with structured tables and relationships between posts, comments, and users.
 
+ ##screenshot
+ ![PostApp](/image.jpg)
+
 Technologies Used:
 
 	•	Node.js: Server-side environment for running JavaScript code.
